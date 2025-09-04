@@ -10,4 +10,4 @@ Our expertise shines in:
 
 We’re striving to push boundaries with proprietary IoT devices and integrated software solutions. Headquartered in Fairfax, Virginia, with a global reach, we’re excited to share our open-source projects and collaborate with the community to shape the future of technology.
 
-**Join us in building tomorrow’s solutions! Contribute to our repositories, share ideas, or connect with us at apptalyst.com.**
+Join us in building tomorrow’s solutions! Contribute to our repositories, share ideas, or connect with us at **apptalyst.com**
