@@ -1,4 +1,4 @@
-# About Apptalyst
+# About Us
 
 Apptalyst LLC is a dynamic software development firm that aims to catalyze innovation through cutting-edge solutions in **web development**, **mobile apps**, and **IoT programming**. Our passion for research and development, and sharing our expertise as open-source, drives us to contribute high-performance tools, frameworks, and libraries to empower developers and businesses worldwide.
 
